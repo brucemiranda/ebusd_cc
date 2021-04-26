@@ -1,7 +1,7 @@
 {
-  "domain": "ebusd",
-  "name": "ebusd",
-  "documentation": "https://www.home-assistant.io/integrations/ebusd",
+  "domain": "ebusd_cc",
+  "name": "ebusd_cc",
+  "documentation": "https://github.com/brucemiranda/ebusd_cc",
   "requirements": ["ebusdpy==0.0.16"],
   "codeowners": [],
   "iot_class": "local_polling"
